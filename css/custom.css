@@ -1,0 +1,3 @@
+#dp > div:nth-child(1) > div > div:nth-child(1) > div > div:nth-child(2){
+	display: none;
+}

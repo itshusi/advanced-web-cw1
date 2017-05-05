@@ -1,0 +1,12 @@
+id,name,start,end,resource,availability,type
+1b8386ff-ba32-9548-4207-2fe3a3f717e0,Metaphysics,"2017-05-08 09:00:00","2017-05-08 10:00:00",NULL,3,group
+29c6a15d-838a-024a-4367-cb00969bfe83,"Moral Theory","2017-05-09 10:00:00","2017-05-09 11:00:00",NULL,3,group
+629360d0-3e5a-3196-fa31-f6c63508fe75,"Menu Test","2017-05-11 13:00:00","2017-05-11 21:00:00",NULL,1,appointment
+7467bfe6-4820-2418-35c6-3aa00cda4930,"Moral Theory","2017-05-12 11:00:00","2017-05-12 12:00:00",NULL,3,group
+77ca5a12-d8fb-e01e-019b-9b28a341d3d1,Appointment,"2017-05-12 12:00:00","2017-05-12 12:30:00",NULL,1,appointment
+7feed856-b85e-93b3-4522-41860c5d7fb2,Ethics,"2017-05-09 14:00:00","2017-05-09 15:00:00",NULL,3,group
+87a889df-3479-334d-7469-d45fe3a53a0d,Baking,"2017-05-10 10:00:00","2017-05-10 11:00:00",NULL,3,group
+901dbde4-2394-d4a0-64ee-bf2efb029773,Appointment,"2017-05-11 11:00:00","2017-05-11 11:30:00",NULL,1,appointment
+a9ec7dd7-d25b-f7ce-981b-aaef817d263a,Appointment,"2017-05-11 14:00:00","2017-05-11 14:30:00",NULL,1,appointment
+b2b6e688-b744-4935-6ea0-f7e66a14abdb,Test,"2017-05-10 13:30:00","2017-05-10 16:00:00",NULL,1,appointment
+dbf3a74a-b4f2-b5df-4f77-a3ad3289b67a,Metaphysics,"2017-05-12 09:00:00","2017-05-12 10:00:00",NULL,0,group
